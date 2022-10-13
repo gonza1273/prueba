@@ -76,7 +76,7 @@ a{
 
 .chequeo:hover {
     background-color: red;
-    transform: scale(3);
+    transform: scale(2);
 }
 
 @keyframes entrada-central{
